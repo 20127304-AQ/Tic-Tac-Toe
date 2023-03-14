@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+# Tic-Tac-Toe with adversarial search
 3x3 and 5x5
 
 Application of Minimax algorithm in 3x3 board game.
